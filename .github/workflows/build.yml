@@ -1,4 +1,4 @@
-name: iOS Build CI
+name: iOS Build CI-JW
 
 on: [push, pull_request]
 
